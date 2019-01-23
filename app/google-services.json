@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "398454282702",
+    "firebase_url": "https://cevirogren-d4bba.firebaseio.com",
+    "project_id": "cevirogren-d4bba",
+    "storage_bucket": "cevirogren-d4bba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398454282702:android:384c1f3aa810cd99",
+        "android_client_info": {
+          "package_name": "com.buyukeryazilim.cevirogren"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398454282702-f667rdg7fl8nuljjq74155jctknoiq5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buyukeryazilim.cevirogren",
+            "certificate_hash": "abe587b43449d6e898367442ae23c9e17eb2f960"
+          }
+        },
+        {
+          "client_id": "398454282702-7ue8g10gb01f17d83988etjqdur6m1ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOGCR0nELkT0XWGwUDagTH9yvUeQN_Eik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398454282702-7ue8g10gb01f17d83988etjqdur6m1ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
